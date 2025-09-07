@@ -45,6 +45,7 @@ Y para los **requisitos no funcionales**:
 - Coordinadores: Personas que administran y supervisan el proceso de recolección.
 
 ## 🤝 Equipo de trabajo
+Somos el **equipo 1**:
 - Pablo Ignacio Bettancourt Pinto
 - Bastián Guido Ceballos Zapata 
 - Angie Verónica Ramírez González
