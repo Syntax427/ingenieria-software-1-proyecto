@@ -25,13 +25,17 @@ Se busca crear un software donde los usuarios puedan realizar solicitudes de ret
 Para los **requisitos funcionales**, el sistema debe permitir:
 - Ingresar solicitudes de retiro de materiales, así como editarlas o cancelarlas.
 - Validar las solicitudes de retiro a través de la ubicación geográfica.
-- Integrar rutas eficientes en base a agrupación de las solicitudes por zona. 
-- Reportar el resultado de cada retiro por parte de los recolectores.
-- Que el recolector genere comprobantes para los hogares.
+- Integrar rutas eficientes en base a agrupación de las solicitudes por zona.
+- Asignar rutas a recolectores.
+- Actualizar el estado del ṕedido.
+- Generar notificaciones sobre el estado del pedido.
+- Generar comprobantes para los hogares.
+- Generar resumenes de los pedidos.
 - Registro de los actores a través de correo y contraseña.
-- Almacenamiento de los datos personales del usuario (contemplando dirección, nombre completo, correo y número telefónico)
+- Almacenamiento de los datos personales del usuario (contemplando dirección, nombre completo, correo y número telefónico).
 - Diferenciar el actor según su cuenta para mostrar una interfaz personalizada.
 - Ofrecer una visualización de un tutorial de uso de la aplicación personalizado para cada actor.
+- Mantener un registro/historial consistente de pedidos.
 
 Y para los **requisitos no funcionales**: 
 - Seguridad: Uso de protocolo SSL/TLS para el manejo de los datos, junto con jerarquías de acceso separadas para usuarios y trabajadores.
